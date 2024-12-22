@@ -1,0 +1,38 @@
+body
+{
+    background-color: antiquewhite;
+}
+#heading
+{
+    font-family: cursive, monospace, sans-serif;
+    font-weight: 800;
+    font-size: 48px;
+    text-align: center;
+    color: green;
+}
+#steps
+{
+    font-family: 'Courier New', monospace;
+    font-size: 18px;
+}
+#ingredients
+{
+    font-family: 'Lora', serif;
+    font-size: 18px;
+}
+#description
+{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+}
+#img
+{
+    text-align: center;
+}
+#end
+{
+    text-align: center; 
+    font-size: medium;
+    font-weight: bold;
+    font-family: Arial;
+}

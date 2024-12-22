@@ -1,0 +1,17 @@
+body
+{
+    background-color: antiquewhite;
+}
+.recipe-links
+{
+    color: greenyellow;
+    font-size: 24px;
+}
+#heading
+{
+    font-family: cursive, monospace, sans-serif;
+    font-weight: 800;
+    font-size: 48px;
+    text-align: center;
+    color: green;
+}
