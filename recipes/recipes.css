@@ -10,20 +10,21 @@ body
     text-align: center;
     color: green;
 }
+#steps, #ingredients, #description
+{
+    font-size: 18px;
+}
 #steps
 {
     font-family: 'Courier New', monospace;
-    font-size: 18px;
 }
 #ingredients
 {
     font-family: 'Lora', serif;
-    font-size: 18px;
 }
 #description
 {
     font-family: 'Open Sans', sans-serif;
-    font-size: 18px;
 }
 #img
 {
